@@ -1,6 +1,8 @@
 # Fork
 This repo has a nice implementation of Rollbar. Useful for other projects.
 
+[services/rollbarErrorReporter.ts](https://github.com/thomashoddinott/pixel.horse/blob/main/src/ts/components/services/rollbarErrorReporter.ts)
+
 # pixel.horse
 
 A [Pony Town](https://pony.town) custom server
