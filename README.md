@@ -1,3 +1,6 @@
+# Fork
+This repo has a nice implementation of Rollbar. Useful for other projects.
+
 # pixel.horse
 
 A [Pony Town](https://pony.town) custom server
